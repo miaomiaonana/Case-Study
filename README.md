@@ -16,8 +16,11 @@ When you permanently pay down your Straight Up or Power Up loan to reach the low
 Athena’s custom in-house built tech allows clients to check against more factors faster.
 
 -Their pre-approval is super accurate because your numbers are verified instantly
+
 -They’ve built a fully automated credit scorecard
+
 -They’ve co-designed the experience with their customers
+
 
 ## Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
 
