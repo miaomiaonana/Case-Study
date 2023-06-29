@@ -1,7 +1,7 @@
 # ATHENA - Repayment relief that lasts
 group work with Joshua
 
-![IMAGE](Screen Shot 2023-06-29 at 8.45.27 pm)
+![IMAGE](Screen Shot 2023-06-29 at 8.45.27 pm.png)
 
 ## What is the background of your company? What do they do? Who are their competitors?
 
